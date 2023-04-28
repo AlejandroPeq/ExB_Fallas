@@ -1,0 +1,16 @@
+{
+  "1682700057298": {
+    "originalName": "fuego_azul.png",
+    "fileName": "1682700057298.png",
+    "size": 16397,
+    "url": "${appResourceUrl}/images/widget_4/1682700057298.png",
+    "created": 1682700057298,
+    "resourcesPrefix": "images/widget_4",
+    "referedIds": [],
+    "originId": "1682700057298",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 256,
+    "originalHeight": 256
+  }
+}
